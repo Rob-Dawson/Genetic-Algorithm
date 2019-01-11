@@ -25,7 +25,7 @@ int main()
 		cout << "Phrase: " << phrase << "\n ===== ";
 	}
 		
-	//delete pop;
+	delete pop;
 
 	system("pause");
 }
